@@ -19,9 +19,9 @@ export default defineConfig({
     VitePWA({
       includeAssets: ["assets/*", "icons/*"],
       manifest: {
-        name: "Black Hawks Scouting",
+        name: "Wired Wizards 2023 Scouting",
         short_name: "Scouting",
-        description: "A scouting app by FRC Team 2834",
+        description: "WW 4534 Scouting, based on code from team 2834",
         theme_color: "#292929",
         background_color: "#292929",
         icons: [
