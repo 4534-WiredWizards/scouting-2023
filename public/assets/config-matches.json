@@ -11,13 +11,6 @@
           "colspan": 2
         },
         {
-          "name": "Starting Position",
-          "type": "positions",
-          "file": "field.png",
-          "height": 200,
-          "colspan": 2
-        },
-        {
           "name": "Left Community",
           "type": "checkbox"
         },
@@ -85,25 +78,6 @@
         {
           "name": "Bottom Scored",
           "type": "spinbox"
-        },
-        {
-          "name": "Links Scored",
-          "type": "spinbox"
-        },
-        {
-          "name": "Co-Op Bonus",
-          "type": "checkbox"
-        },
-        {
-          "name": "Defense Rating",
-          "type": "dropdown",
-          "options": [
-            "Not Played",
-            "Not Effective",
-            "Average",
-            "Very Effective"
-          ],
-          "labelColspan": 2
         }
       ]
     },
@@ -120,19 +94,6 @@
             "None"
           ],
           "default": 3
-        },
-        {
-          "name": "Failed To Engage",
-          "type": "checkbox"
-        },
-        {
-          "name": "Robots Docked",
-          "type": "spinbox",
-          "max": 3
-        },
-        {
-          "name": "Mechanical Failures",
-          "type": "text"
         },
         {
           "name": "Comments",
